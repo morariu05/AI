@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wq1CkY8pPq3QsyNtGgHxuvVK98dJp7UK3Qf+Chl+XVlRuHapr1Yfq6VCBxHr294nGnJH0sfUykUKv42WpBtAYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ela\\Desktop\\shit\\an III\\AI\\m\\NeuronArtificial\\NeuronArtificial-AI\\NeuronArtificial-AI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ela\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
