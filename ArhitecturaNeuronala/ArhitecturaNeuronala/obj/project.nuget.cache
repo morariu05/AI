@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfZH8Cl9a9LN2Z9vc0kWuwdGUYO30evWPZJY2nw1oGF7NYZsiZw4ShX9D0t+9q92ULx535fGkIr+xrfFdr3CFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ela\\Desktop\\shit\\an III\\AI\\m\\ArhitecturaNeuronala\\ArhitecturaNeuronala\\ArhitecturaNeuronala.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ela\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
